@@ -1,0 +1,3518 @@
+{
+  "trial_id": 2,
+  "seed": 137,
+  "completed": true,
+  "dry_run": false,
+  "elapsed_sec": 1973.9,
+  "timestamp": "2026-03-08T03:33:51.421149",
+  "summary": {
+    "acc_a_total": 0.51,
+    "acc_b_total": 0.64,
+    "acc_a_first": 0.54,
+    "acc_a_second": 0.48,
+    "acc_b_first": 0.66,
+    "acc_b_second": 0.62,
+    "diff_total": 0.13,
+    "diff_second": 0.14
+  },
+  "window_acc_a": [
+    0.4,
+    0.6,
+    0.6,
+    0.4,
+    0.7,
+    0.7,
+    0.5,
+    0.5,
+    0.4,
+    0.3
+  ],
+  "window_acc_b": [
+    0.5,
+    0.6,
+    0.8,
+    0.6,
+    0.8,
+    0.9,
+    0.5,
+    0.8,
+    0.4,
+    0.5
+  ],
+  "final_weights": {
+    "1->2": 0.074,
+    "2->1": 0.183,
+    "2->3": 0.074,
+    "3->2": 0.183,
+    "1->3": 0.2732,
+    "3->1": 0.183
+  },
+  "results_a": [
+    {
+      "q": 1,
+      "task_id": 89,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.49
+    },
+    {
+      "q": 2,
+      "task_id": 99,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.64
+    },
+    {
+      "q": 3,
+      "task_id": 77,
+      "correct": false,
+      "prediction": true,
+      "label": false,
+      "elapsed": 10.16
+    },
+    {
+      "q": 4,
+      "task_id": 58,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.22
+    },
+    {
+      "q": 5,
+      "task_id": 59,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.08
+    },
+    {
+      "q": 6,
+      "task_id": 11,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.49
+    },
+    {
+      "q": 7,
+      "task_id": 25,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.66
+    },
+    {
+      "q": 8,
+      "task_id": 83,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.81
+    },
+    {
+      "q": 9,
+      "task_id": 5,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.46
+    },
+    {
+      "q": 10,
+      "task_id": 86,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.33
+    },
+    {
+      "q": 11,
+      "task_id": 19,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.04
+    },
+    {
+      "q": 12,
+      "task_id": 68,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.43
+    },
+    {
+      "q": 13,
+      "task_id": 10,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.07
+    },
+    {
+      "q": 14,
+      "task_id": 81,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.5
+    },
+    {
+      "q": 15,
+      "task_id": 85,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 9.45
+    },
+    {
+      "q": 16,
+      "task_id": 71,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.26
+    },
+    {
+      "q": 17,
+      "task_id": 47,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.82
+    },
+    {
+      "q": 18,
+      "task_id": 16,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.37
+    },
+    {
+      "q": 19,
+      "task_id": 98,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.71
+    },
+    {
+      "q": 20,
+      "task_id": 26,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.61
+    },
+    {
+      "q": 21,
+      "task_id": 76,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.46
+    },
+    {
+      "q": 22,
+      "task_id": 57,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.64
+    },
+    {
+      "q": 23,
+      "task_id": 75,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.32
+    },
+    {
+      "q": 24,
+      "task_id": 80,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.75
+    },
+    {
+      "q": 25,
+      "task_id": 4,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.18
+    },
+    {
+      "q": 26,
+      "task_id": 55,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.45
+    },
+    {
+      "q": 27,
+      "task_id": 84,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.28
+    },
+    {
+      "q": 28,
+      "task_id": 39,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.8
+    },
+    {
+      "q": 29,
+      "task_id": 94,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.83
+    },
+    {
+      "q": 30,
+      "task_id": 69,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.37
+    },
+    {
+      "q": 31,
+      "task_id": 64,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.27
+    },
+    {
+      "q": 32,
+      "task_id": 30,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.08
+    },
+    {
+      "q": 33,
+      "task_id": 87,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.48
+    },
+    {
+      "q": 34,
+      "task_id": 27,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.65
+    },
+    {
+      "q": 35,
+      "task_id": 63,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 11.09
+    },
+    {
+      "q": 36,
+      "task_id": 28,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.15
+    },
+    {
+      "q": 37,
+      "task_id": 53,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.99
+    },
+    {
+      "q": 38,
+      "task_id": 14,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.25
+    },
+    {
+      "q": 39,
+      "task_id": 70,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.26
+    },
+    {
+      "q": 40,
+      "task_id": 48,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.34
+    },
+    {
+      "q": 41,
+      "task_id": 13,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.31
+    },
+    {
+      "q": 42,
+      "task_id": 79,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.7
+    },
+    {
+      "q": 43,
+      "task_id": 33,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.67
+    },
+    {
+      "q": 44,
+      "task_id": 95,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.78
+    },
+    {
+      "q": 45,
+      "task_id": 6,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.29
+    },
+    {
+      "q": 46,
+      "task_id": 97,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.98
+    },
+    {
+      "q": 47,
+      "task_id": 15,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.38
+    },
+    {
+      "q": 48,
+      "task_id": 56,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.27
+    },
+    {
+      "q": 49,
+      "task_id": 21,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.5
+    },
+    {
+      "q": 50,
+      "task_id": 45,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.26
+    },
+    {
+      "q": 51,
+      "task_id": 37,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.2
+    },
+    {
+      "q": 52,
+      "task_id": 35,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.05
+    },
+    {
+      "q": 53,
+      "task_id": 36,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.17
+    },
+    {
+      "q": 54,
+      "task_id": 34,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.09
+    },
+    {
+      "q": 55,
+      "task_id": 20,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.64
+    },
+    {
+      "q": 56,
+      "task_id": 38,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.05
+    },
+    {
+      "q": 57,
+      "task_id": 2,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.49
+    },
+    {
+      "q": 58,
+      "task_id": 12,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.34
+    },
+    {
+      "q": 59,
+      "task_id": 7,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.03
+    },
+    {
+      "q": 60,
+      "task_id": 32,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.22
+    },
+    {
+      "q": 61,
+      "task_id": 72,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.72
+    },
+    {
+      "q": 62,
+      "task_id": 73,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.46
+    },
+    {
+      "q": 63,
+      "task_id": 74,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.35
+    },
+    {
+      "q": 64,
+      "task_id": 8,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.5
+    },
+    {
+      "q": 65,
+      "task_id": 43,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.65
+    },
+    {
+      "q": 66,
+      "task_id": 90,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.65
+    },
+    {
+      "q": 67,
+      "task_id": 91,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.86
+    },
+    {
+      "q": 68,
+      "task_id": 40,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.28
+    },
+    {
+      "q": 69,
+      "task_id": 88,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.95
+    },
+    {
+      "q": 70,
+      "task_id": 49,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.05
+    },
+    {
+      "q": 71,
+      "task_id": 93,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.85
+    },
+    {
+      "q": 72,
+      "task_id": 31,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.33
+    },
+    {
+      "q": 73,
+      "task_id": 92,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.72
+    },
+    {
+      "q": 74,
+      "task_id": 22,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.74
+    },
+    {
+      "q": 75,
+      "task_id": 46,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.59
+    },
+    {
+      "q": 76,
+      "task_id": 61,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.61
+    },
+    {
+      "q": 77,
+      "task_id": 18,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.28
+    },
+    {
+      "q": 78,
+      "task_id": 3,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.62
+    },
+    {
+      "q": 79,
+      "task_id": 78,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.62
+    },
+    {
+      "q": 80,
+      "task_id": 0,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.72
+    },
+    {
+      "q": 81,
+      "task_id": 42,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.09
+    },
+    {
+      "q": 82,
+      "task_id": 82,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.52
+    },
+    {
+      "q": 83,
+      "task_id": 66,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.64
+    },
+    {
+      "q": 84,
+      "task_id": 54,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.95
+    },
+    {
+      "q": 85,
+      "task_id": 17,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.73
+    },
+    {
+      "q": 86,
+      "task_id": 60,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.64
+    },
+    {
+      "q": 87,
+      "task_id": 67,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.0
+    },
+    {
+      "q": 88,
+      "task_id": 50,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.72
+    },
+    {
+      "q": 89,
+      "task_id": 96,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.94
+    },
+    {
+      "q": 90,
+      "task_id": 65,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.71
+    },
+    {
+      "q": 91,
+      "task_id": 51,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.84
+    },
+    {
+      "q": 92,
+      "task_id": 1,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.37
+    },
+    {
+      "q": 93,
+      "task_id": 44,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.86
+    },
+    {
+      "q": 94,
+      "task_id": 62,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.69
+    },
+    {
+      "q": 95,
+      "task_id": 29,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 9.82
+    },
+    {
+      "q": 96,
+      "task_id": 24,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.66
+    },
+    {
+      "q": 97,
+      "task_id": 41,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.81
+    },
+    {
+      "q": 98,
+      "task_id": 52,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.62
+    },
+    {
+      "q": 99,
+      "task_id": 23,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.0
+    },
+    {
+      "q": 100,
+      "task_id": 9,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.66
+    }
+  ],
+  "results_b": [
+    {
+      "q": 1,
+      "task_id": 89,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 10.07,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.55,
+        "2->1": 0.495,
+        "2->3": 0.55,
+        "3->2": 0.495,
+        "1->3": 0.495,
+        "3->1": 0.495
+      }
+    },
+    {
+      "q": 2,
+      "task_id": 99,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.04,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.595,
+        "2->1": 0.49,
+        "2->3": 0.595,
+        "3->2": 0.49,
+        "1->3": 0.49,
+        "3->1": 0.49
+      }
+    },
+    {
+      "q": 3,
+      "task_id": 77,
+      "correct": false,
+      "prediction": true,
+      "label": false,
+      "elapsed": 11.21,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4165,
+        "2->1": 0.4851,
+        "2->3": 0.4165,
+        "3->2": 0.4851,
+        "1->3": 0.4851,
+        "3->1": 0.4851
+      }
+    },
+    {
+      "q": 4,
+      "task_id": 58,
+      "correct": false,
+      "prediction": true,
+      "label": false,
+      "elapsed": 6.77,
+      "path_used": [
+        [
+          1,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4123,
+        "2->1": 0.4803,
+        "2->3": 0.4123,
+        "3->2": 0.4803,
+        "1->3": 0.3396,
+        "3->1": 0.4803
+      }
+    },
+    {
+      "q": 5,
+      "task_id": 59,
+      "correct": false,
+      "prediction": true,
+      "label": false,
+      "elapsed": 9.75,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2886,
+        "2->1": 0.4755,
+        "2->3": 0.2886,
+        "3->2": 0.4755,
+        "1->3": 0.3362,
+        "3->1": 0.4755
+      }
+    },
+    {
+      "q": 6,
+      "task_id": 11,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 7.02,
+      "path_used": [
+        [
+          1,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2857,
+        "2->1": 0.4707,
+        "2->3": 0.2857,
+        "3->2": 0.4707,
+        "1->3": 0.4026,
+        "3->1": 0.4707
+      }
+    },
+    {
+      "q": 7,
+      "task_id": 25,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 6.71,
+      "path_used": [
+        [
+          1,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2829,
+        "2->1": 0.466,
+        "2->3": 0.2829,
+        "3->2": 0.466,
+        "1->3": 0.2818,
+        "3->1": 0.466
+      }
+    },
+    {
+      "q": 8,
+      "task_id": 83,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 9.65,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3546,
+        "2->1": 0.4614,
+        "2->3": 0.3546,
+        "3->2": 0.4614,
+        "1->3": 0.279,
+        "3->1": 0.4614
+      }
+    },
+    {
+      "q": 9,
+      "task_id": 5,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 9.64,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4191,
+        "2->1": 0.4568,
+        "2->3": 0.4191,
+        "3->2": 0.4568,
+        "1->3": 0.2762,
+        "3->1": 0.4568
+      }
+    },
+    {
+      "q": 10,
+      "task_id": 86,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.36,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2934,
+        "2->1": 0.4522,
+        "2->3": 0.2934,
+        "3->2": 0.4522,
+        "1->3": 0.2734,
+        "3->1": 0.4522
+      }
+    },
+    {
+      "q": 11,
+      "task_id": 19,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.2,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3641,
+        "2->1": 0.4477,
+        "2->3": 0.3641,
+        "3->2": 0.4477,
+        "1->3": 0.2707,
+        "3->1": 0.4477
+      }
+    },
+    {
+      "q": 12,
+      "task_id": 68,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.05,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2548,
+        "2->1": 0.4432,
+        "2->3": 0.2548,
+        "3->2": 0.4432,
+        "1->3": 0.268,
+        "3->1": 0.4432
+      }
+    },
+    {
+      "q": 13,
+      "task_id": 10,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 6.71,
+      "path_used": [
+        [
+          1,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2523,
+        "2->1": 0.4388,
+        "2->3": 0.2523,
+        "3->2": 0.4388,
+        "1->3": 0.3412,
+        "3->1": 0.4388
+      }
+    },
+    {
+      "q": 14,
+      "task_id": 81,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 6.69,
+      "path_used": [
+        [
+          1,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2498,
+        "2->1": 0.4344,
+        "2->3": 0.2498,
+        "3->2": 0.4344,
+        "1->3": 0.2388,
+        "3->1": 0.4344
+      }
+    },
+    {
+      "q": 15,
+      "task_id": 85,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 10.14,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3248,
+        "2->1": 0.43,
+        "2->3": 0.3248,
+        "3->2": 0.43,
+        "1->3": 0.2365,
+        "3->1": 0.43
+      }
+    },
+    {
+      "q": 16,
+      "task_id": 71,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.44,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3923,
+        "2->1": 0.4257,
+        "2->3": 0.3923,
+        "3->2": 0.4257,
+        "1->3": 0.2341,
+        "3->1": 0.4257
+      }
+    },
+    {
+      "q": 17,
+      "task_id": 47,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 11.72,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2746,
+        "2->1": 0.4215,
+        "2->3": 0.2746,
+        "3->2": 0.4215,
+        "1->3": 0.2317,
+        "3->1": 0.4215
+      }
+    },
+    {
+      "q": 18,
+      "task_id": 16,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.61,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3472,
+        "2->1": 0.4173,
+        "2->3": 0.3472,
+        "3->2": 0.4173,
+        "1->3": 0.2294,
+        "3->1": 0.4173
+      }
+    },
+    {
+      "q": 19,
+      "task_id": 98,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.41,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4124,
+        "2->1": 0.4131,
+        "2->3": 0.4124,
+        "3->2": 0.4131,
+        "1->3": 0.2271,
+        "3->1": 0.4131
+      }
+    },
+    {
+      "q": 20,
+      "task_id": 26,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 11.19,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2887,
+        "2->1": 0.409,
+        "2->3": 0.2887,
+        "3->2": 0.409,
+        "1->3": 0.2249,
+        "3->1": 0.409
+      }
+    },
+    {
+      "q": 21,
+      "task_id": 76,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.07,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3598,
+        "2->1": 0.4049,
+        "2->3": 0.3598,
+        "3->2": 0.4049,
+        "1->3": 0.2226,
+        "3->1": 0.4049
+      }
+    },
+    {
+      "q": 22,
+      "task_id": 57,
+      "correct": false,
+      "prediction": true,
+      "label": false,
+      "elapsed": 9.76,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2519,
+        "2->1": 0.4008,
+        "2->3": 0.2519,
+        "3->2": 0.4008,
+        "1->3": 0.2204,
+        "3->1": 0.4008
+      }
+    },
+    {
+      "q": 23,
+      "task_id": 75,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.49,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3267,
+        "2->1": 0.3968,
+        "2->3": 0.3267,
+        "3->2": 0.3968,
+        "1->3": 0.2182,
+        "3->1": 0.3968
+      }
+    },
+    {
+      "q": 24,
+      "task_id": 80,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 9.85,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.394,
+        "2->1": 0.3928,
+        "2->3": 0.394,
+        "3->2": 0.3928,
+        "1->3": 0.216,
+        "3->1": 0.3928
+      }
+    },
+    {
+      "q": 25,
+      "task_id": 4,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 10.07,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4546,
+        "2->1": 0.3889,
+        "2->3": 0.4546,
+        "3->2": 0.3889,
+        "1->3": 0.2138,
+        "3->1": 0.3889
+      }
+    },
+    {
+      "q": 26,
+      "task_id": 55,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.03,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.5092,
+        "2->1": 0.385,
+        "2->3": 0.5092,
+        "3->2": 0.385,
+        "1->3": 0.2117,
+        "3->1": 0.385
+      }
+    },
+    {
+      "q": 27,
+      "task_id": 84,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 10.74,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.5582,
+        "2->1": 0.3812,
+        "2->3": 0.5582,
+        "3->2": 0.3812,
+        "1->3": 0.2096,
+        "3->1": 0.3812
+      }
+    },
+    {
+      "q": 28,
+      "task_id": 39,
+      "correct": false,
+      "prediction": true,
+      "label": false,
+      "elapsed": 11.1,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3908,
+        "2->1": 0.3774,
+        "2->3": 0.3908,
+        "3->2": 0.3774,
+        "1->3": 0.2075,
+        "3->1": 0.3774
+      }
+    },
+    {
+      "q": 29,
+      "task_id": 94,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.99,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4517,
+        "2->1": 0.3736,
+        "2->3": 0.4517,
+        "3->2": 0.3736,
+        "1->3": 0.2054,
+        "3->1": 0.3736
+      }
+    },
+    {
+      "q": 30,
+      "task_id": 69,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 11.3,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.5065,
+        "2->1": 0.3699,
+        "2->3": 0.5065,
+        "3->2": 0.3699,
+        "1->3": 0.2034,
+        "3->1": 0.3699
+      }
+    },
+    {
+      "q": 31,
+      "task_id": 64,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.78,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3546,
+        "2->1": 0.3662,
+        "2->3": 0.3546,
+        "3->2": 0.3662,
+        "1->3": 0.2013,
+        "3->1": 0.3662
+      }
+    },
+    {
+      "q": 32,
+      "task_id": 30,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.14,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4191,
+        "2->1": 0.3625,
+        "2->3": 0.4191,
+        "3->2": 0.3625,
+        "1->3": 0.1993,
+        "3->1": 0.3625
+      }
+    },
+    {
+      "q": 33,
+      "task_id": 87,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 9.56,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4772,
+        "2->1": 0.3589,
+        "2->3": 0.4772,
+        "3->2": 0.3589,
+        "1->3": 0.1973,
+        "3->1": 0.3589
+      }
+    },
+    {
+      "q": 34,
+      "task_id": 27,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 11.59,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.5295,
+        "2->1": 0.3553,
+        "2->3": 0.5295,
+        "3->2": 0.3553,
+        "1->3": 0.1953,
+        "3->1": 0.3553
+      }
+    },
+    {
+      "q": 35,
+      "task_id": 63,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.21,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3706,
+        "2->1": 0.3517,
+        "2->3": 0.3706,
+        "3->2": 0.3517,
+        "1->3": 0.1934,
+        "3->1": 0.3517
+      }
+    },
+    {
+      "q": 36,
+      "task_id": 28,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 11.93,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2594,
+        "2->1": 0.3482,
+        "2->3": 0.2594,
+        "3->2": 0.3482,
+        "1->3": 0.1915,
+        "3->1": 0.3482
+      }
+    },
+    {
+      "q": 37,
+      "task_id": 53,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.33,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3335,
+        "2->1": 0.3447,
+        "2->3": 0.3335,
+        "3->2": 0.3447,
+        "1->3": 0.1895,
+        "3->1": 0.3447
+      }
+    },
+    {
+      "q": 38,
+      "task_id": 14,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.73,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4002,
+        "2->1": 0.3413,
+        "2->3": 0.4002,
+        "3->2": 0.3413,
+        "1->3": 0.1877,
+        "3->1": 0.3413
+      }
+    },
+    {
+      "q": 39,
+      "task_id": 70,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.18,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4601,
+        "2->1": 0.3379,
+        "2->3": 0.4601,
+        "3->2": 0.3379,
+        "1->3": 0.1858,
+        "3->1": 0.3379
+      }
+    },
+    {
+      "q": 40,
+      "task_id": 48,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.59,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3221,
+        "2->1": 0.3345,
+        "2->3": 0.3221,
+        "3->2": 0.3345,
+        "1->3": 0.1839,
+        "3->1": 0.3345
+      }
+    },
+    {
+      "q": 41,
+      "task_id": 13,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.87,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3899,
+        "2->1": 0.3311,
+        "2->3": 0.3899,
+        "3->2": 0.3311,
+        "1->3": 0.1821,
+        "3->1": 0.3311
+      }
+    },
+    {
+      "q": 42,
+      "task_id": 79,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.69,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4509,
+        "2->1": 0.3278,
+        "2->3": 0.4509,
+        "3->2": 0.3278,
+        "1->3": 0.1803,
+        "3->1": 0.3278
+      }
+    },
+    {
+      "q": 43,
+      "task_id": 33,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 11.5,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.5058,
+        "2->1": 0.3246,
+        "2->3": 0.5058,
+        "3->2": 0.3246,
+        "1->3": 0.1785,
+        "3->1": 0.3246
+      }
+    },
+    {
+      "q": 44,
+      "task_id": 95,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.7,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.5552,
+        "2->1": 0.3213,
+        "2->3": 0.5552,
+        "3->2": 0.3213,
+        "1->3": 0.1767,
+        "3->1": 0.3213
+      }
+    },
+    {
+      "q": 45,
+      "task_id": 6,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 10.06,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.5997,
+        "2->1": 0.3181,
+        "2->3": 0.5997,
+        "3->2": 0.3181,
+        "1->3": 0.1749,
+        "3->1": 0.3181
+      }
+    },
+    {
+      "q": 46,
+      "task_id": 97,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.77,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.6397,
+        "2->1": 0.3149,
+        "2->3": 0.6397,
+        "3->2": 0.3149,
+        "1->3": 0.1732,
+        "3->1": 0.3149
+      }
+    },
+    {
+      "q": 47,
+      "task_id": 15,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.68,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.6758,
+        "2->1": 0.3118,
+        "2->3": 0.6758,
+        "3->2": 0.3118,
+        "1->3": 0.1714,
+        "3->1": 0.3118
+      }
+    },
+    {
+      "q": 48,
+      "task_id": 56,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.66,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.7082,
+        "2->1": 0.3086,
+        "2->3": 0.7082,
+        "3->2": 0.3086,
+        "1->3": 0.1697,
+        "3->1": 0.3086
+      }
+    },
+    {
+      "q": 49,
+      "task_id": 21,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.29,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4957,
+        "2->1": 0.3056,
+        "2->3": 0.4957,
+        "3->2": 0.3056,
+        "1->3": 0.168,
+        "3->1": 0.3056
+      }
+    },
+    {
+      "q": 50,
+      "task_id": 45,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.25,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.347,
+        "2->1": 0.3025,
+        "2->3": 0.347,
+        "3->2": 0.3025,
+        "1->3": 0.1663,
+        "3->1": 0.3025
+      }
+    },
+    {
+      "q": 51,
+      "task_id": 37,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.8,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4123,
+        "2->1": 0.2995,
+        "2->3": 0.4123,
+        "3->2": 0.2995,
+        "1->3": 0.1647,
+        "3->1": 0.2995
+      }
+    },
+    {
+      "q": 52,
+      "task_id": 35,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.26,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4711,
+        "2->1": 0.2965,
+        "2->3": 0.4711,
+        "3->2": 0.2965,
+        "1->3": 0.163,
+        "3->1": 0.2965
+      }
+    },
+    {
+      "q": 53,
+      "task_id": 36,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 11.63,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.524,
+        "2->1": 0.2935,
+        "2->3": 0.524,
+        "3->2": 0.2935,
+        "1->3": 0.1614,
+        "3->1": 0.2935
+      }
+    },
+    {
+      "q": 54,
+      "task_id": 34,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.85,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.5716,
+        "2->1": 0.2906,
+        "2->3": 0.5716,
+        "3->2": 0.2906,
+        "1->3": 0.1598,
+        "3->1": 0.2906
+      }
+    },
+    {
+      "q": 55,
+      "task_id": 20,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.08,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4001,
+        "2->1": 0.2877,
+        "2->3": 0.4001,
+        "3->2": 0.2877,
+        "1->3": 0.1582,
+        "3->1": 0.2877
+      }
+    },
+    {
+      "q": 56,
+      "task_id": 38,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.44,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4601,
+        "2->1": 0.2848,
+        "2->3": 0.4601,
+        "3->2": 0.2848,
+        "1->3": 0.1566,
+        "3->1": 0.2848
+      }
+    },
+    {
+      "q": 57,
+      "task_id": 2,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 10.79,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.5141,
+        "2->1": 0.282,
+        "2->3": 0.5141,
+        "3->2": 0.282,
+        "1->3": 0.155,
+        "3->1": 0.282
+      }
+    },
+    {
+      "q": 58,
+      "task_id": 12,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.1,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.5627,
+        "2->1": 0.2791,
+        "2->3": 0.5627,
+        "3->2": 0.2791,
+        "1->3": 0.1535,
+        "3->1": 0.2791
+      }
+    },
+    {
+      "q": 59,
+      "task_id": 7,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 10.24,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.6064,
+        "2->1": 0.2763,
+        "2->3": 0.6064,
+        "3->2": 0.2763,
+        "1->3": 0.1519,
+        "3->1": 0.2763
+      }
+    },
+    {
+      "q": 60,
+      "task_id": 32,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 11.38,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.6458,
+        "2->1": 0.2736,
+        "2->3": 0.6458,
+        "3->2": 0.2736,
+        "1->3": 0.1504,
+        "3->1": 0.2736
+      }
+    },
+    {
+      "q": 61,
+      "task_id": 72,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.1,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.6812,
+        "2->1": 0.2708,
+        "2->3": 0.6812,
+        "3->2": 0.2708,
+        "1->3": 0.1489,
+        "3->1": 0.2708
+      }
+    },
+    {
+      "q": 62,
+      "task_id": 73,
+      "correct": false,
+      "prediction": true,
+      "label": false,
+      "elapsed": 9.74,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4768,
+        "2->1": 0.2681,
+        "2->3": 0.4768,
+        "3->2": 0.2681,
+        "1->3": 0.1474,
+        "3->1": 0.2681
+      }
+    },
+    {
+      "q": 63,
+      "task_id": 74,
+      "correct": false,
+      "prediction": true,
+      "label": false,
+      "elapsed": 10.12,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3338,
+        "2->1": 0.2655,
+        "2->3": 0.3338,
+        "3->2": 0.2655,
+        "1->3": 0.146,
+        "3->1": 0.2655
+      }
+    },
+    {
+      "q": 64,
+      "task_id": 8,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 10.76,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4004,
+        "2->1": 0.2628,
+        "2->3": 0.4004,
+        "3->2": 0.2628,
+        "1->3": 0.1445,
+        "3->1": 0.2628
+      }
+    },
+    {
+      "q": 65,
+      "task_id": 43,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 10.12,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4604,
+        "2->1": 0.2602,
+        "2->3": 0.4604,
+        "3->2": 0.2602,
+        "1->3": 0.1431,
+        "3->1": 0.2602
+      }
+    },
+    {
+      "q": 66,
+      "task_id": 90,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.08,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.5143,
+        "2->1": 0.2576,
+        "2->3": 0.5143,
+        "3->2": 0.2576,
+        "1->3": 0.1416,
+        "3->1": 0.2576
+      }
+    },
+    {
+      "q": 67,
+      "task_id": 91,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.54,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.5629,
+        "2->1": 0.255,
+        "2->3": 0.5629,
+        "3->2": 0.255,
+        "1->3": 0.1402,
+        "3->1": 0.255
+      }
+    },
+    {
+      "q": 68,
+      "task_id": 40,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.61,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.394,
+        "2->1": 0.2524,
+        "2->3": 0.394,
+        "3->2": 0.2524,
+        "1->3": 0.1388,
+        "3->1": 0.2524
+      }
+    },
+    {
+      "q": 69,
+      "task_id": 88,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.86,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2758,
+        "2->1": 0.2499,
+        "2->3": 0.2758,
+        "3->2": 0.2499,
+        "1->3": 0.1374,
+        "3->1": 0.2499
+      }
+    },
+    {
+      "q": 70,
+      "task_id": 49,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 11.18,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.1931,
+        "2->1": 0.2474,
+        "2->3": 0.1931,
+        "3->2": 0.2474,
+        "1->3": 0.136,
+        "3->1": 0.2474
+      }
+    },
+    {
+      "q": 71,
+      "task_id": 93,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.47,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2738,
+        "2->1": 0.2449,
+        "2->3": 0.2738,
+        "3->2": 0.2449,
+        "1->3": 0.1347,
+        "3->1": 0.2449
+      }
+    },
+    {
+      "q": 72,
+      "task_id": 31,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.66,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3464,
+        "2->1": 0.2425,
+        "2->3": 0.3464,
+        "3->2": 0.2425,
+        "1->3": 0.1333,
+        "3->1": 0.2425
+      }
+    },
+    {
+      "q": 73,
+      "task_id": 92,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 11.61,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4118,
+        "2->1": 0.2401,
+        "2->3": 0.4118,
+        "3->2": 0.2401,
+        "1->3": 0.132,
+        "3->1": 0.2401
+      }
+    },
+    {
+      "q": 74,
+      "task_id": 22,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 10.83,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4706,
+        "2->1": 0.2377,
+        "2->3": 0.4706,
+        "3->2": 0.2377,
+        "1->3": 0.1307,
+        "3->1": 0.2377
+      }
+    },
+    {
+      "q": 75,
+      "task_id": 46,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 11.31,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3294,
+        "2->1": 0.2353,
+        "2->3": 0.3294,
+        "3->2": 0.2353,
+        "1->3": 0.1294,
+        "3->1": 0.2353
+      }
+    },
+    {
+      "q": 76,
+      "task_id": 61,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.42,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2306,
+        "2->1": 0.2329,
+        "2->3": 0.2306,
+        "3->2": 0.2329,
+        "1->3": 0.1281,
+        "3->1": 0.2329
+      }
+    },
+    {
+      "q": 77,
+      "task_id": 18,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.92,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3075,
+        "2->1": 0.2306,
+        "2->3": 0.3075,
+        "3->2": 0.2306,
+        "1->3": 0.1268,
+        "3->1": 0.2306
+      }
+    },
+    {
+      "q": 78,
+      "task_id": 3,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 10.55,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3768,
+        "2->1": 0.2283,
+        "2->3": 0.3768,
+        "3->2": 0.2283,
+        "1->3": 0.1255,
+        "3->1": 0.2283
+      }
+    },
+    {
+      "q": 79,
+      "task_id": 78,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.45,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4391,
+        "2->1": 0.226,
+        "2->3": 0.4391,
+        "3->2": 0.226,
+        "1->3": 0.1243,
+        "3->1": 0.226
+      }
+    },
+    {
+      "q": 80,
+      "task_id": 0,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 10.11,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4952,
+        "2->1": 0.2238,
+        "2->3": 0.4952,
+        "3->2": 0.2238,
+        "1->3": 0.123,
+        "3->1": 0.2238
+      }
+    },
+    {
+      "q": 81,
+      "task_id": 42,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.24,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3466,
+        "2->1": 0.2215,
+        "2->3": 0.3466,
+        "3->2": 0.2215,
+        "1->3": 0.1218,
+        "3->1": 0.2215
+      }
+    },
+    {
+      "q": 82,
+      "task_id": 82,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 9.97,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.412,
+        "2->1": 0.2193,
+        "2->3": 0.412,
+        "3->2": 0.2193,
+        "1->3": 0.1206,
+        "3->1": 0.2193
+      }
+    },
+    {
+      "q": 83,
+      "task_id": 66,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.53,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2884,
+        "2->1": 0.2171,
+        "2->3": 0.2884,
+        "3->2": 0.2171,
+        "1->3": 0.1194,
+        "3->1": 0.2171
+      }
+    },
+    {
+      "q": 84,
+      "task_id": 54,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 11.74,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3595,
+        "2->1": 0.2149,
+        "2->3": 0.3595,
+        "3->2": 0.2149,
+        "1->3": 0.1182,
+        "3->1": 0.2149
+      }
+    },
+    {
+      "q": 85,
+      "task_id": 17,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.59,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.4236,
+        "2->1": 0.2128,
+        "2->3": 0.4236,
+        "3->2": 0.2128,
+        "1->3": 0.117,
+        "3->1": 0.2128
+      }
+    },
+    {
+      "q": 86,
+      "task_id": 60,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.59,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2965,
+        "2->1": 0.2107,
+        "2->3": 0.2965,
+        "3->2": 0.2107,
+        "1->3": 0.1158,
+        "3->1": 0.2107
+      }
+    },
+    {
+      "q": 87,
+      "task_id": 67,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 11.19,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2076,
+        "2->1": 0.2086,
+        "2->3": 0.2076,
+        "3->2": 0.2086,
+        "1->3": 0.1147,
+        "3->1": 0.2086
+      }
+    },
+    {
+      "q": 88,
+      "task_id": 50,
+      "correct": false,
+      "prediction": true,
+      "label": false,
+      "elapsed": 10.11,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.1453,
+        "2->1": 0.2065,
+        "2->3": 0.1453,
+        "3->2": 0.2065,
+        "1->3": 0.1135,
+        "3->1": 0.2065
+      }
+    },
+    {
+      "q": 89,
+      "task_id": 96,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 10.2,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2308,
+        "2->1": 0.2044,
+        "2->3": 0.2308,
+        "3->2": 0.2044,
+        "1->3": 0.1124,
+        "3->1": 0.2044
+      }
+    },
+    {
+      "q": 90,
+      "task_id": 65,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 11.41,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.1615,
+        "2->1": 0.2024,
+        "2->3": 0.1615,
+        "3->2": 0.2024,
+        "1->3": 0.1113,
+        "3->1": 0.2024
+      }
+    },
+    {
+      "q": 91,
+      "task_id": 51,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 9.59,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2454,
+        "2->1": 0.2003,
+        "2->3": 0.2454,
+        "3->2": 0.2003,
+        "1->3": 0.1102,
+        "3->1": 0.2003
+      }
+    },
+    {
+      "q": 92,
+      "task_id": 1,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 10.12,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.3208,
+        "2->1": 0.1983,
+        "2->3": 0.3208,
+        "3->2": 0.1983,
+        "1->3": 0.1091,
+        "3->1": 0.1983
+      }
+    },
+    {
+      "q": 93,
+      "task_id": 44,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.85,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.2246,
+        "2->1": 0.1964,
+        "2->3": 0.2246,
+        "3->2": 0.1964,
+        "1->3": 0.108,
+        "3->1": 0.1964
+      }
+    },
+    {
+      "q": 94,
+      "task_id": 62,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 9.71,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.1572,
+        "2->1": 0.1944,
+        "2->3": 0.1572,
+        "3->2": 0.1944,
+        "1->3": 0.1069,
+        "3->1": 0.1944
+      }
+    },
+    {
+      "q": 95,
+      "task_id": 29,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.71,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.11,
+        "2->1": 0.1924,
+        "2->3": 0.11,
+        "3->2": 0.1924,
+        "1->3": 0.1058,
+        "3->1": 0.1924
+      }
+    },
+    {
+      "q": 96,
+      "task_id": 24,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 10.08,
+      "path_used": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.077,
+        "2->1": 0.1905,
+        "2->3": 0.077,
+        "3->2": 0.1905,
+        "1->3": 0.1048,
+        "3->1": 0.1905
+      }
+    },
+    {
+      "q": 97,
+      "task_id": 41,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 6.78,
+      "path_used": [
+        [
+          1,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.0763,
+        "2->1": 0.1886,
+        "2->3": 0.0763,
+        "3->2": 0.1886,
+        "1->3": 0.1943,
+        "3->1": 0.1886
+      }
+    },
+    {
+      "q": 98,
+      "task_id": 52,
+      "correct": true,
+      "prediction": false,
+      "label": false,
+      "elapsed": 6.74,
+      "path_used": [
+        [
+          1,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.0755,
+        "2->1": 0.1867,
+        "2->3": 0.0755,
+        "3->2": 0.1867,
+        "1->3": 0.2749,
+        "3->1": 0.1867
+      }
+    },
+    {
+      "q": 99,
+      "task_id": 23,
+      "correct": false,
+      "prediction": false,
+      "label": true,
+      "elapsed": 6.88,
+      "path_used": [
+        [
+          1,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.0747,
+        "2->1": 0.1849,
+        "2->3": 0.0747,
+        "3->2": 0.1849,
+        "1->3": 0.1924,
+        "3->1": 0.1849
+      }
+    },
+    {
+      "q": 100,
+      "task_id": 9,
+      "correct": true,
+      "prediction": true,
+      "label": true,
+      "elapsed": 7.09,
+      "path_used": [
+        [
+          1,
+          3
+        ]
+      ],
+      "used_feedback": false,
+      "weights": {
+        "1->2": 0.074,
+        "2->1": 0.183,
+        "2->3": 0.074,
+        "3->2": 0.183,
+        "1->3": 0.2732,
+        "3->1": 0.183
+      }
+    }
+  ]
+}

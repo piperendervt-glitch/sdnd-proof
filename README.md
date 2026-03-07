@@ -107,7 +107,7 @@ We claim the effect exists, is measurable, and is reproducible.
 ## How to Reproduce
 
 ```bash
-git clone https://github.com/pipe_render/sdnd-proof
+git clone https://github.com/piperendervt-glitch/sdnd-proof
 cd sdnd-proof
 
 pip install httpx numpy matplotlib scipy

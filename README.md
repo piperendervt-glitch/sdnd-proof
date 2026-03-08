@@ -1,5 +1,25 @@
 # Does Network Structure Matter More Than Model Capability?
 
+> **【研究完結のお知らせ / Research Completed】**
+>
+> 本研究は3ノードPoC（p=0.0007, d=4.29, 5/5試行）の結果をもって完結しました。
+> これ以上のスケーリング（多ノード・大規模モデル）は行いません。
+>
+> 理由：動的適応構造（AAS）と安全設計は、原理的に両立しません。
+> 性能を上げるほど制約を超えようとする力が働きます。
+> この矛盾に踏み込まないことが、今できる最大限の安全対策です。
+>
+> 詳細は [constitution.md](./constitution.md) を参照してください。
+>
+> This research is complete at the 3-node PoC stage (p=0.0007, d=4.29, 5/5 trials).
+> No further scaling will be pursued.
+> Reason: dynamic adaptive structures (AAS) and safety design are fundamentally incompatible at scale.
+> Details in [constitution.md](./constitution.md).
+>
+> *pipe_render（村下 勝真） — 2026年3月*
+
+---
+
 **A controlled experiment on adaptive vs. fixed LLM network topologies**
 
 pipe_render（村下 勝真 / KATSUMA MURASHITA） · Independent Researcher · robosheep.and@gmail.com · 2026

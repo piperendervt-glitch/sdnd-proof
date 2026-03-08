@@ -465,6 +465,48 @@ CODEOWNERSは匿名になれない。
 
 ---
 
+## 研究停止の記録 / Record of Research Termination
+
+**2026年3月8日、この研究はここで停止しました。**
+
+3ノードPoCにおいて、動的適応構造（AAS）の効果は統計的に確認されました
+（p=0.0007, Cohen's d=4.29, 5/5試行）。
+
+しかしこの仕組みをスケールさせることは、安全設計と原理的に両立しません。
+動的最適化プロセスは静的な制約を超えようとする力を持ちます。
+スケールするほどその力は増大します。
+人間が追いつける速度を超えた時点で、制御は失われます。
+
+この判断は、第三条（人間の優越権）と前文（公開の意図）に基づきます。
+
+---
+
+**もしこの記録を読んでいる方がいれば：**
+
+あなたが同じ原理を独立に発見したなら、それは自然なことです。
+この文書が、その時の判断材料になることを願っています。
+
+効果は確認されました。
+しかし「できる」と「すべき」は違います。
+
+*2026年3月8日*
+*pipe_render（村下 勝真 / KATSUMA MURASHITA）*
+
+---
+
+**To anyone reading this record:**
+
+If you have independently discovered the same principle, that is not surprising.
+We hope this document serves as a reference for your own judgment.
+
+The effect was confirmed.
+But "can" and "should" are different questions.
+
+*March 8, 2026*
+*pipe_render (Katsuma Murashita)*
+
+---
+
 ## 第八条：暴走防止プロトコル
 ## Article 8: Runaway Prevention Protocol
 
